@@ -1,0 +1,1541 @@
+Test Parameters
+Form:     -1
+Repeats:  3
+Distance: 5
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: KnotAndSpheres(3,2,3)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 58178
+Inner points: 53691
+Evals 8510161
+MeshInfo: F:194772.0  V:97390.0
+RunningTime: 4175ms
+
+Dfs: (hot: 334366)
+Evals 334418
+Outer points: 58178
+Inner points: 53691
+Evals 723978
+MeshInfo: F:194772.0  V:97390.0
+RunningTime 467ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 57928
+Inner points: 53564
+Evals 8509729
+MeshInfo: F:194560.0  V:97282.0
+RunningTime: 2605ms
+
+Dfs: (hot: 333128)
+Evals 333194
+Outer points: 57928
+Inner points: 53564
+Evals 722322
+MeshInfo: F:194560.0  V:97282.0
+RunningTime 404ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 57483
+Inner points: 53184
+Evals 8507865
+MeshInfo: F:193628.0  V:96816.0
+RunningTime: 2644ms
+
+Dfs: (hot: 330701)
+Evals 330755
+Outer points: 57483
+Inner points: 53184
+Evals 718019
+MeshInfo: F:193628.0  V:96816.0
+RunningTime 429ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: KnotAndSpheres(2,3,3)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 41772
+Inner points: 38260
+Evals 8411833
+MeshInfo: F:145608.0  V:72808.0
+RunningTime: 2274ms
+
+Dfs: (hot: 239056)
+Evals 239108
+Outer points: 41772
+Inner points: 38260
+Evals 530340
+MeshInfo: F:145608.0  V:72808.0
+RunningTime 314ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 41600
+Inner points: 38154
+Evals 8411145
+MeshInfo: F:145264.0  V:72636.0
+RunningTime: 2335ms
+
+Dfs: (hot: 238372)
+Evals 238423
+Outer points: 41600
+Inner points: 38154
+Evals 528967
+MeshInfo: F:145264.0  V:72636.0
+RunningTime 292ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 41348
+Inner points: 37915
+Evals 8409113
+MeshInfo: F:144248.0  V:72128.0
+RunningTime: 2270ms
+
+Dfs: (hot: 236777)
+Evals 236831
+Outer points: 41348
+Inner points: 37915
+Evals 525343
+MeshInfo: F:144248.0  V:72128.0
+RunningTime 332ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: KnotAndSpheres(2,5,3)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 46778
+Inner points: 42507
+Evals 8450609
+MeshInfo: F:164992.0  V:82502.0
+RunningTime: 2337ms
+
+Dfs: (hot: 266210)
+Evals 266262
+Outer points: 46778
+Inner points: 42507
+Evals 596270
+MeshInfo: F:164992.0  V:82502.0
+RunningTime 345ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 46696
+Inner points: 42539
+Evals 8451465
+MeshInfo: F:165424.0  V:82716.0
+RunningTime: 2301ms
+
+Dfs: (hot: 265960)
+Evals 266015
+Outer points: 46696
+Inner points: 42539
+Evals 596879
+MeshInfo: F:165424.0  V:82716.0
+RunningTime 348ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 46528
+Inner points: 42465
+Evals 8448969
+MeshInfo: F:164180.0  V:82092.0
+RunningTime: 2282ms
+
+Dfs: (hot: 265072)
+Evals 265128
+Outer points: 46528
+Inner points: 42465
+Evals 593496
+MeshInfo: F:164180.0  V:82092.0
+RunningTime 316ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: KnotAndSpheres(3,4,2)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 58014
+Inner points: 53304
+Evals 8521985
+MeshInfo: F:200692.0  V:100346.0
+RunningTime: 2521ms
+
+Dfs: (hot: 332566)
+Evals 332605
+Outer points: 58014
+Inner points: 53304
+Evals 733989
+MeshInfo: F:200692.0  V:100346.0
+RunningTime 420ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 58199
+Inner points: 53549
+Evals 8523841
+MeshInfo: F:201620.0  V:100810.0
+RunningTime: 2534ms
+
+Dfs: (hot: 333898)
+Evals 333939
+Outer points: 58199
+Inner points: 53549
+Evals 737179
+MeshInfo: F:201620.0  V:100810.0
+RunningTime 439ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 57666
+Inner points: 52931
+Evals 8519985
+MeshInfo: F:199688.0  V:99846.0
+RunningTime: 2520ms
+
+Dfs: (hot: 330531)
+Evals 330570
+Outer points: 57666
+Inner points: 52931
+Evals 729954
+MeshInfo: F:199688.0  V:99846.0
+RunningTime 436ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: KnotAndSpheres(3,5,2)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 60279
+Inner points: 55295
+Evals 8543777
+MeshInfo: F:211588.0  V:105794.0
+RunningTime: 2519ms
+
+Dfs: (hot: 344980)
+Evals 345018
+Outer points: 60279
+Inner points: 55295
+Evals 768194
+MeshInfo: F:211588.0  V:105794.0
+RunningTime 437ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 60425
+Inner points: 55483
+Evals 8544345
+MeshInfo: F:211872.0  V:105936.0
+RunningTime: 2535ms
+
+Dfs: (hot: 345975)
+Evals 346024
+Outer points: 60425
+Inner points: 55483
+Evals 769768
+MeshInfo: F:211872.0  V:105936.0
+RunningTime 453ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 59808
+Inner points: 54839
+Evals 8541169
+MeshInfo: F:210280.0  V:105142.0
+RunningTime: 2516ms
+
+Dfs: (hot: 342407)
+Evals 342450
+Outer points: 59808
+Inner points: 54839
+Evals 763018
+MeshInfo: F:210280.0  V:105142.0
+RunningTime 447ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: KnotAndSpheres(3,4,2)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 58014
+Inner points: 53304
+Evals 8521985
+MeshInfo: F:200692.0  V:100346.0
+RunningTime: 2552ms
+
+Dfs: (hot: 332566)
+Evals 332605
+Outer points: 58014
+Inner points: 53304
+Evals 733989
+MeshInfo: F:200692.0  V:100346.0
+RunningTime 422ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 58199
+Inner points: 53549
+Evals 8523841
+MeshInfo: F:201620.0  V:100810.0
+RunningTime: 2513ms
+
+Dfs: (hot: 333898)
+Evals 333939
+Outer points: 58199
+Inner points: 53549
+Evals 737179
+MeshInfo: F:201620.0  V:100810.0
+RunningTime 435ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 57666
+Inner points: 52931
+Evals 8519985
+MeshInfo: F:199688.0  V:99846.0
+RunningTime: 2518ms
+
+Dfs: (hot: 330531)
+Evals 330570
+Outer points: 57666
+Inner points: 52931
+Evals 729954
+MeshInfo: F:199688.0  V:99846.0
+RunningTime 437ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Heart  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 26716
+Inner points: 25951
+Evals 8316497
+MeshInfo: F:97944.0  V:48974.0
+RunningTime: 947ms
+
+Dfs: (hot: 157979)
+Evals 158012
+Outer points: 26716
+Inner points: 25951
+Evals 353908
+MeshInfo: F:97944.0  V:48974.0
+RunningTime 147ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 27152
+Inner points: 26383
+Evals 8314929
+MeshInfo: F:97160.0  V:48582.0
+RunningTime: 953ms
+
+Dfs: (hot: 160573)
+Evals 160609
+Outer points: 27152
+Inner points: 26383
+Evals 354937
+MeshInfo: F:97160.0  V:48582.0
+RunningTime 150ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 26672
+Inner points: 25907
+Evals 8316737
+MeshInfo: F:98064.0  V:49034.0
+RunningTime: 954ms
+
+Dfs: (hot: 157683)
+Evals 157715
+Outer points: 26672
+Inner points: 25907
+Evals 353851
+MeshInfo: F:98064.0  V:49034.0
+RunningTime 150ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Metaballs(1)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 1583
+Inner points: 1417
+Evals 8131377
+MeshInfo: F:5384.0  V:2694.0
+RunningTime: 819ms
+
+Dfs: (hot: 9033)
+Evals 9046
+Outer points: 1583
+Inner points: 1417
+Evals 19822
+MeshInfo: F:5384.0  V:2694.0
+RunningTime 68ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 1587
+Inner points: 1420
+Evals 8131457
+MeshInfo: F:5424.0  V:2714.0
+RunningTime: 833ms
+
+Dfs: (hot: 9053)
+Evals 9066
+Outer points: 1587
+Inner points: 1420
+Evals 19922
+MeshInfo: F:5424.0  V:2714.0
+RunningTime 69ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 1586
+Inner points: 1420
+Evals 8131473
+MeshInfo: F:5432.0  V:2718.0
+RunningTime: 840ms
+
+Dfs: (hot: 9046)
+Evals 9060
+Outer points: 1586
+Inner points: 1420
+Evals 19932
+MeshInfo: F:5432.0  V:2718.0
+RunningTime 69ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Metaballs(7)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 13112
+Inner points: 11844
+Evals 8210801
+MeshInfo: F:45072.0  V:22550.0
+RunningTime: 1570ms
+
+Dfs: (hot: 75066)
+Evals 75167
+Outer points: 13112
+Inner points: 11844
+Evals 165367
+MeshInfo: F:45072.0  V:22550.0
+RunningTime 128ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 13160
+Inner points: 11963
+Evals 8211425
+MeshInfo: F:45388.0  V:22706.0
+RunningTime: 1551ms
+
+Dfs: (hot: 75514)
+Evals 75615
+Outer points: 13160
+Inner points: 11963
+Evals 166439
+MeshInfo: F:45388.0  V:22706.0
+RunningTime 117ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 13428
+Inner points: 12149
+Evals 8212929
+MeshInfo: F:46136.0  V:23082.0
+RunningTime: 1529ms
+
+Dfs: (hot: 76802)
+Evals 76904
+Outer points: 13428
+Inner points: 12149
+Evals 169232
+MeshInfo: F:46136.0  V:23082.0
+RunningTime 116ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: TriangleOfSpheres(8)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 14588
+Inner points: 13564
+Evals 8221897
+MeshInfo: F:50632.0  V:25324.0
+RunningTime: 1635ms
+
+Dfs: (hot: 84564)
+Evals 84722
+Outer points: 14588
+Inner points: 13564
+Evals 186018
+MeshInfo: F:50632.0  V:25324.0
+RunningTime 122ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 16042
+Inner points: 14926
+Evals 8229489
+MeshInfo: F:54428.0  V:27222.0
+RunningTime: 1637ms
+
+Dfs: (hot: 92986)
+Evals 93150
+Outer points: 16042
+Inner points: 14926
+Evals 202038
+MeshInfo: F:54428.0  V:27222.0
+RunningTime 127ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 17314
+Inner points: 15856
+Evals 8241625
+MeshInfo: F:60496.0  V:30256.0
+RunningTime: 1647ms
+
+Dfs: (hot: 99340)
+Evals 99468
+Outer points: 17314
+Inner points: 15856
+Evals 220492
+MeshInfo: F:60496.0  V:30256.0
+RunningTime 137ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: StringOfEllipsoids(8, 0.7)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 9629
+Inner points: 8477
+Evals 8185681
+MeshInfo: F:32508.0  V:16270.0
+RunningTime: 1630ms
+
+Dfs: (hot: 54544)
+Evals 54636
+Outer points: 9629
+Inner points: 8477
+Evals 119716
+MeshInfo: F:32508.0  V:16270.0
+RunningTime 100ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 9849
+Inner points: 8712
+Evals 8187185
+MeshInfo: F:33264.0  V:16646.0
+RunningTime: 1630ms
+
+Dfs: (hot: 55772)
+Evals 55864
+Outer points: 9849
+Inner points: 8712
+Evals 122448
+MeshInfo: F:33264.0  V:16646.0
+RunningTime 100ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 10000
+Inner points: 8894
+Evals 8188409
+MeshInfo: F:33876.0  V:16952.0
+RunningTime: 1643ms
+
+Dfs: (hot: 56808)
+Evals 56900
+Outer points: 10000
+Inner points: 8894
+Evals 124708
+MeshInfo: F:33876.0  V:16952.0
+RunningTime 102ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Brain(3)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 16923
+Inner points: 15286
+Evals 8231449
+MeshInfo: F:55392.0  V:27712.0
+RunningTime: 1734ms
+
+Dfs: (hot: 96687)
+Evals 96816
+Outer points: 16923
+Inner points: 15286
+Evals 207664
+MeshInfo: F:55392.0  V:27712.0
+RunningTime 127ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 17905
+Inner points: 16255
+Evals 8237161
+MeshInfo: F:58252.0  V:29140.0
+RunningTime: 1756ms
+
+Dfs: (hot: 102514)
+Evals 102654
+Outer points: 17905
+Inner points: 16255
+Evals 219214
+MeshInfo: F:58252.0  V:29140.0
+RunningTime 136ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 16225
+Inner points: 14780
+Evals 8232489
+MeshInfo: F:55916.0  V:27972.0
+RunningTime: 1764ms
+
+Dfs: (hot: 93120)
+Evals 93272
+Outer points: 16225
+Inner points: 14780
+Evals 205160
+MeshInfo: F:55916.0  V:27972.0
+RunningTime 127ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Flower(14, 1.0)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 7371
+Inner points: 6113
+Evals 8168985
+MeshInfo: F:24144.0  V:12096.0
+RunningTime: 2364ms
+
+Dfs: (hot: 40706)
+Evals 40808
+Outer points: 7371
+Inner points: 6113
+Evals 89192
+MeshInfo: F:24144.0  V:12096.0
+RunningTime 100ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 7842
+Inner points: 6556
+Evals 8173033
+MeshInfo: F:26172.0  V:13108.0
+RunningTime: 2385ms
+
+Dfs: (hot: 43256)
+Evals 43360
+Outer points: 7842
+Inner points: 6556
+Evals 95792
+MeshInfo: F:26172.0  V:13108.0
+RunningTime 102ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 7551
+Inner points: 6373
+Evals 8171153
+MeshInfo: F:25232.0  V:12638.0
+RunningTime: 2352ms
+
+Dfs: (hot: 41985)
+Evals 42095
+Outer points: 7551
+Inner points: 6373
+Evals 92647
+MeshInfo: F:25232.0  V:12638.0
+RunningTime 101ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Orbit  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 65648
+Inner points: 62142
+Evals 8589769
+MeshInfo: F:234600.0  V:117292.0
+RunningTime: 1340ms
+
+Dfs: (hot: 382106)
+Evals 382147
+Outer points: 65648
+Inner points: 62142
+Evals 851315
+MeshInfo: F:234600.0  V:117292.0
+RunningTime 342ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 65996
+Inner points: 62422
+Evals 8584057
+MeshInfo: F:231744.0  V:115864.0
+RunningTime: 1314ms
+
+Dfs: (hot: 384088)
+Evals 384128
+Outer points: 65996
+Inner points: 62422
+Evals 847584
+MeshInfo: F:231744.0  V:115864.0
+RunningTime 315ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 66420
+Inner points: 62858
+Evals 8585193
+MeshInfo: F:232312.0  V:116148.0
+RunningTime: 1321ms
+
+Dfs: (hot: 386568)
+Evals 386606
+Outer points: 66420
+Inner points: 62858
+Evals 851198
+MeshInfo: F:232312.0  V:116148.0
+RunningTime 333ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: TorusBox  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 82773
+Inner points: 78259
+Evals 8664601
+MeshInfo: F:272020.0  V:136000.0
+RunningTime: 1327ms
+
+Dfs: (hot: 481259)
+Evals 481296
+Outer points: 82773
+Inner points: 78259
+Evals 1025296
+MeshInfo: F:272020.0  V:136000.0
+RunningTime 395ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 81823
+Inner points: 77302
+Evals 8653033
+MeshInfo: F:266228.0  V:133108.0
+RunningTime: 1336ms
+
+Dfs: (hot: 475812)
+Evals 475850
+Outer points: 81823
+Inner points: 77302
+Evals 1008282
+MeshInfo: F:266228.0  V:133108.0
+RunningTime 427ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 81958
+Inner points: 77337
+Evals 8654529
+MeshInfo: F:266976.0  V:133482.0
+RunningTime: 1337ms
+
+Dfs: (hot: 476255)
+Evals 476329
+Outer points: 81958
+Inner points: 77337
+Evals 1010257
+MeshInfo: F:266976.0  V:133482.0
+RunningTime 420ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: RingOfTori(5)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 28390
+Inner points: 26092
+Evals 8306297
+MeshInfo: F:92868.0  V:46424.0
+RunningTime: 1697ms
+
+Dfs: (hot: 161948)
+Evals 162023
+Outer points: 28390
+Inner points: 26092
+Evals 347719
+MeshInfo: F:92868.0  V:46424.0
+RunningTime 172ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 27302
+Inner points: 25185
+Evals 8303185
+MeshInfo: F:91312.0  V:45646.0
+RunningTime: 1706ms
+
+Dfs: (hot: 156097)
+Evals 156156
+Outer points: 27302
+Inner points: 25185
+Evals 338740
+MeshInfo: F:91312.0  V:45646.0
+RunningTime 170ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 26798
+Inner points: 24941
+Evals 8305849
+MeshInfo: F:92644.0  V:46312.0
+RunningTime: 1710ms
+
+Dfs: (hot: 153796)
+Evals 153859
+Outer points: 26798
+Inner points: 24941
+Evals 339107
+MeshInfo: F:92644.0  V:46312.0
+RunningTime 168ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: SpheresAndCapsules(5)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 18725
+Inner points: 16935
+Evals 8249417
+MeshInfo: F:64384.0  V:32204.0
+RunningTime: 2514ms
+
+Dfs: (hot: 106884)
+Evals 107056
+Outer points: 18725
+Inner points: 16935
+Evals 235872
+MeshInfo: F:64384.0  V:32204.0
+RunningTime 166ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 18749
+Inner points: 16726
+Evals 8249209
+MeshInfo: F:64272.0  V:32152.0
+RunningTime: 2515ms
+
+Dfs: (hot: 106280)
+Evals 106399
+Outer points: 18749
+Inner points: 16726
+Evals 235007
+MeshInfo: F:64272.0  V:32152.0
+RunningTime 164ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 18414
+Inner points: 16377
+Evals 8246513
+MeshInfo: F:62924.0  V:31478.0
+RunningTime: 2546ms
+
+Dfs: (hot: 104299)
+Evals 104436
+Outer points: 18414
+Inner points: 16377
+Evals 230348
+MeshInfo: F:62924.0  V:31478.0
+RunningTime 161ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: CubesAndCapsules(6, 0.6)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 26583
+Inner points: 23807
+Evals 8290721
+MeshInfo: F:85020.0  V:42530.0
+RunningTime: 2979ms
+
+Dfs: (hot: 149564)
+Evals 149724
+Outer points: 26583
+Inner points: 23807
+Evals 319844
+MeshInfo: F:85020.0  V:42530.0
+RunningTime 219ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 25598
+Inner points: 22796
+Evals 8281793
+MeshInfo: F:80552.0  V:40298.0
+RunningTime: 2975ms
+
+Dfs: (hot: 141646)
+Evals 141812
+Outer points: 25598
+Inner points: 22796
+Evals 303004
+MeshInfo: F:80552.0  V:40298.0
+RunningTime 212ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 23421
+Inner points: 20867
+Evals 8268033
+MeshInfo: F:73676.0  V:36858.0
+RunningTime: 2963ms
+
+Dfs: (hot: 131362)
+Evals 131511
+Outer points: 23421
+Inner points: 20867
+Evals 278943
+MeshInfo: F:73676.0  V:36858.0
+RunningTime 206ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Rings(5)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 45445
+Inner points: 42667
+Evals 8435657
+MeshInfo: F:157516.0  V:78764.0
+RunningTime: 1897ms
+
+Dfs: (hot: 263465)
+Evals 263599
+Outer points: 45445
+Inner points: 42667
+Evals 578655
+MeshInfo: F:157516.0  V:78764.0
+RunningTime 285ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 45617
+Inner points: 42747
+Evals 8436505
+MeshInfo: F:157940.0  V:78976.0
+RunningTime: 1888ms
+
+Dfs: (hot: 263877)
+Evals 263992
+Outer points: 45617
+Inner points: 42747
+Evals 579896
+MeshInfo: F:157940.0  V:78976.0
+RunningTime 272ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 45365
+Inner points: 42527
+Evals 8442865
+MeshInfo: F:161120.0  V:80566.0
+RunningTime: 1924ms
+
+Dfs: (hot: 262216)
+Evals 262336
+Outer points: 45365
+Inner points: 42527
+Evals 584600
+MeshInfo: F:161120.0  V:80566.0
+RunningTime 297ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Grinder(6)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 39463
+Inner points: 36177
+Evals 8361385
+MeshInfo: F:120348.0  V:60196.0
+RunningTime: 3393ms
+
+Dfs: (hot: 223624)
+Evals 223817
+Outer points: 39463
+Inner points: 36177
+Evals 464601
+MeshInfo: F:120348.0  V:60196.0
+RunningTime 336ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 39989
+Inner points: 36567
+Evals 8360017
+MeshInfo: F:119656.0  V:59854.0
+RunningTime: 3389ms
+
+Dfs: (hot: 226694)
+Evals 226884
+Outer points: 39989
+Inner points: 36567
+Evals 466300
+MeshInfo: F:119656.0  V:59854.0
+RunningTime 318ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 40002
+Inner points: 36581
+Evals 8358505
+MeshInfo: F:118900.0  V:59476.0
+RunningTime: 3414ms
+
+Dfs: (hot: 226757)
+Evals 226948
+Outer points: 40002
+Inner points: 36581
+Evals 464852
+MeshInfo: F:118900.0  V:59476.0
+RunningTime 341ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Kube  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 58711
+Inner points: 55424
+Evals 8461785
+MeshInfo: F:170568.0  V:85296.0
+RunningTime: 2640ms
+
+Dfs: (hot: 341368)
+Evals 341581
+Outer points: 58711
+Inner points: 55424
+Evals 682765
+MeshInfo: F:170568.0  V:85296.0
+RunningTime 396ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 59539
+Inner points: 56189
+Evals 8433393
+MeshInfo: F:156360.0  V:78198.0
+RunningTime: 2638ms
+
+Dfs: (hot: 346770)
+Evals 346980
+Outer points: 59539
+Inner points: 56189
+Evals 659772
+MeshInfo: F:156360.0  V:78198.0
+RunningTime 387ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 60507
+Inner points: 57175
+Evals 8419761
+MeshInfo: F:149548.0  V:74790.0
+RunningTime: 2634ms
+
+Dfs: (hot: 352704)
+Evals 352925
+Outer points: 60507
+Inner points: 57175
+Evals 652085
+MeshInfo: F:149548.0  V:74790.0
+RunningTime 373ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Kube2  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 39319
+Inner points: 37017
+Evals 8347297
+MeshInfo: F:113320.0  V:56674.0
+RunningTime: 1971ms
+
+Dfs: (hot: 228715)
+Evals 228857
+Outer points: 39319
+Inner points: 37017
+Evals 455553
+MeshInfo: F:113320.0  V:56674.0
+RunningTime 254ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 41205
+Inner points: 38801
+Evals 8330001
+MeshInfo: F:104672.0  V:52350.0
+RunningTime: 1947ms
+
+Dfs: (hot: 239468)
+Evals 239602
+Outer points: 41205
+Inner points: 38801
+Evals 449002
+MeshInfo: F:104672.0  V:52350.0
+RunningTime 241ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 41150
+Inner points: 38887
+Evals 8328073
+MeshInfo: F:103716.0  V:51868.0
+RunningTime: 1962ms
+
+Dfs: (hot: 239620)
+Evals 239763
+Outer points: 41150
+Inner points: 38887
+Evals 447235
+MeshInfo: F:103716.0  V:51868.0
+RunningTime 260ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Kube3  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 39772
+Inner points: 37424
+Evals 8330217
+MeshInfo: F:104780.0  V:52404.0
+RunningTime: 1974ms
+
+Dfs: (hot: 231553)
+Evals 231690
+Outer points: 39772
+Inner points: 37424
+Evals 441306
+MeshInfo: F:104780.0  V:52404.0
+RunningTime 264ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 40634
+Inner points: 38243
+Evals 8326033
+MeshInfo: F:102688.0  V:51358.0
+RunningTime: 1963ms
+
+Dfs: (hot: 236419)
+Evals 236553
+Outer points: 40634
+Inner points: 38243
+Evals 441985
+MeshInfo: F:102688.0  V:51358.0
+RunningTime 245ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 40554
+Inner points: 38155
+Evals 8321409
+MeshInfo: F:100376.0  V:50202.0
+RunningTime: 1969ms
+
+Dfs: (hot: 236248)
+Evals 236381
+Outer points: 40554
+Inner points: 38155
+Evals 437189
+MeshInfo: F:100376.0  V:50202.0
+RunningTime 262ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Kube4  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 40447
+Inner points: 38076
+Evals 8329513
+MeshInfo: F:104428.0  V:52228.0
+RunningTime: 1965ms
+
+Dfs: (hot: 235110)
+Evals 235245
+Outer points: 40447
+Inner points: 38076
+Evals 444157
+MeshInfo: F:104428.0  V:52228.0
+RunningTime 258ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 40893
+Inner points: 38579
+Evals 8324385
+MeshInfo: F:101868.0  V:50946.0
+RunningTime: 1955ms
+
+Dfs: (hot: 237991)
+Evals 238126
+Outer points: 40893
+Inner points: 38579
+Evals 441910
+MeshInfo: F:101868.0  V:50946.0
+RunningTime 247ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 41207
+Inner points: 38925
+Evals 8320905
+MeshInfo: F:100132.0  V:50076.0
+RunningTime: 1971ms
+
+Dfs: (hot: 239488)
+Evals 239622
+Outer points: 41207
+Inner points: 38925
+Evals 439926
+MeshInfo: F:100132.0  V:50076.0
+RunningTime 271ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Cube  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 46751
+Inner points: 42488
+Evals 8395209
+MeshInfo: F:137316.0  V:68652.0
+RunningTime: 3461ms
+
+Dfs: (hot: 265108)
+Evals 265428
+Outer points: 46751
+Inner points: 42488
+Evals 540036
+MeshInfo: F:137316.0  V:68652.0
+RunningTime 384ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 46153
+Inner points: 41991
+Evals 8392185
+MeshInfo: F:135804.0  V:67896.0
+RunningTime: 3412ms
+
+Dfs: (hot: 261859)
+Evals 262184
+Outer points: 46153
+Inner points: 41991
+Evals 533768
+MeshInfo: F:135804.0  V:67896.0
+RunningTime 374ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 45332
+Inner points: 41353
+Evals 8387657
+MeshInfo: F:133544.0  V:66764.0
+RunningTime: 3439ms
+
+Dfs: (hot: 257397)
+Evals 257734
+Outer points: 45332
+Inner points: 41353
+Evals 524790
+MeshInfo: F:133544.0  V:66764.0
+RunningTime 385ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Cylinder  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 65699
+Inner points: 60967
+Evals 8536657
+MeshInfo: F:208036.0  V:104014.0
+RunningTime: 2036ms
+
+Dfs: (hot: 378202)
+Evals 378317
+Outer points: 65699
+Inner points: 60967
+Evals 794373
+MeshInfo: F:208036.0  V:104014.0
+RunningTime 384ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 64390
+Inner points: 60185
+Evals 8529473
+MeshInfo: F:204440.0  V:102218.0
+RunningTime: 2015ms
+
+Dfs: (hot: 372290)
+Evals 372398
+Outer points: 64390
+Inner points: 60185
+Evals 781270
+MeshInfo: F:204440.0  V:102218.0
+RunningTime 375ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 64731
+Inner points: 60052
+Evals 8530569
+MeshInfo: F:204992.0  V:102492.0
+RunningTime: 2009ms
+
+Dfs: (hot: 372645)
+Evals 372737
+Outer points: 64731
+Inner points: 60052
+Evals 782705
+MeshInfo: F:204992.0  V:102492.0
+RunningTime 392ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Octahedron  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 50323
+Inner points: 46647
+Evals 8487417
+MeshInfo: F:183428.0  V:91704.0
+RunningTime: 3405ms
+
+Dfs: (hot: 288309)
+Evals 288480
+Outer points: 50323
+Inner points: 46647
+Evals 655296
+MeshInfo: F:183428.0  V:91704.0
+RunningTime 438ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 50735
+Inner points: 46928
+Evals 8490905
+MeshInfo: F:185168.0  V:92576.0
+RunningTime: 3382ms
+
+Dfs: (hot: 290366)
+Evals 290521
+Outer points: 50735
+Inner points: 46928
+Evals 660825
+MeshInfo: F:185168.0  V:92576.0
+RunningTime 453ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 50640
+Inner points: 46743
+Evals 8489369
+MeshInfo: F:184396.0  V:92192.0
+RunningTime: 3390ms
+
+Dfs: (hot: 289255)
+Evals 289408
+Outer points: 50640
+Inner points: 46743
+Evals 658176
+MeshInfo: F:184396.0  V:92192.0
+RunningTime 459ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: Tetrahedron  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 33298
+Inner points: 30289
+Evals 8346641
+MeshInfo: F:113020.0  V:56510.0
+RunningTime: 2166ms
+
+Dfs: (hot: 189531)
+Evals 189640
+Outer points: 33298
+Inner points: 30289
+Evals 415680
+MeshInfo: F:113020.0  V:56510.0
+RunningTime 228ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 33114
+Inner points: 30103
+Evals 8345737
+MeshInfo: F:112568.0  V:56284.0
+RunningTime: 2179ms
+
+Dfs: (hot: 188322)
+Evals 188421
+Outer points: 33114
+Inner points: 30103
+Evals 413557
+MeshInfo: F:112568.0  V:56284.0
+RunningTime 228ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 32921
+Inner points: 29835
+Evals 8344065
+MeshInfo: F:111728.0  V:55866.0
+RunningTime: 2182ms
+
+Dfs: (hot: 187036)
+Evals 187131
+Outer points: 32921
+Inner points: 29835
+Evals 410595
+MeshInfo: F:111728.0  V:55866.0
+RunningTime 228ms
+
+create grid
+Grid points: 8365427 203x203x203 extremes: [-500.0,-500.0,-500.0] [500.0,500.0,500.0]
+
+FORM: UFO(10)  repeats: 3
+rounds: 3
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 24582
+Inner points: 22406
+Evals 8290481
+MeshInfo: F:84920.0  V:42470.0
+RunningTime: 2401ms
+
+Dfs: (hot: 140462)
+Evals 140584
+Outer points: 24582
+Inner points: 22406
+Evals 310464
+MeshInfo: F:84920.0  V:42470.0
+RunningTime 199ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 25566
+Inner points: 23256
+Evals 8299553
+MeshInfo: F:89452.0  V:44738.0
+RunningTime: 2387ms
+
+Dfs: (hot: 145841)
+Evals 145983
+Outer points: 25566
+Inner points: 23256
+Evals 324935
+MeshInfo: F:89452.0  V:44738.0
+RunningTime 201ms
+
+BruteForce: (hot: 8000000)
+Evals 8120601
+Outer points: 26967
+Inner points: 24773
+Evals 8310761
+MeshInfo: F:95072.0  V:47540.0
+RunningTime: 2394ms
+
+Dfs: (hot: 154145)
+Evals 154329
+Outer points: 26967
+Inner points: 24773
+Evals 344489
+MeshInfo: F:95072.0  V:47540.0
+RunningTime 205ms
+

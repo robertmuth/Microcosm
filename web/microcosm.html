@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Microcosm</title>
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="1800">
+<meta http-equiv="Content-Type" content="text/html" />
+<style>
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden; //
+	background-size: cover;
+	background-size: 100% 100%;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+div.error {
+	z-index: 2;
+	opacity: 0.75;
+	position: absolute;
+	background-color: red;
+	color: white;
+	top: 20%;
+	bottom: 20%;
+	left: 10%;
+	right: 10%;
+	text-align: center;
+	vetical-align: middle;
+	align-content: center;
+	font-size: 300%;
+	justify-content: center;
+	align-items: center;
+	/* display:flex; */
+}
+
+div.about, div.config, div.performance, div.logo {
+	z-index: 2;
+	opacity: 0.5;
+	position: absolute;
+	background-color: #666;
+	color: white;
+}
+
+div.about {
+	padding: 1em;
+	top: 4%;
+	bottom: 4%;
+	left: 52%;
+	right: 4%;
+}
+
+div.config {
+	padding: 1em;
+	top: 4%;
+	bottom: 4%;
+	left: 4%;
+	right: 52%;
+}
+
+div.progress {
+	position: absolute;
+	left: 50%;
+	top: 50%; //
+	transform: translateX(-50%);
+	transform: translate(-50%, -50%);
+	z-index: 3;
+	padding: .5em; // //
+	color: #f00;
+	background-color: #87CEFA;
+}
+
+div.performance {
+	padding: .5em;
+}
+
+div.logo {
+	padding: .5em;
+	background-color: rgba(0, 0, 0, 0);
+	color: white;
+	bottom: 2%;
+	right: 2%;
+}
+
+img.splash {
+	width: 100%;
+	height: 100%;
+}
+
+input[type=reset], button {
+	font-weight: bold;
+}
+
+input[type=text], input[type=number] {
+	width: 5em;
+}
+
+a {
+	color: inherit;
+}
+
+a:hover, a:visited, a:link, a:active {
+	text-decoration: none;
+	font-weight: bold;
+}
+</style>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-32123907-10', 'auto');
+    ga('send', 'pageview');
+   </script>
+</head>
+<body>
+	<div class="about">
+		<h2>About</h2>
+		<pre>
+  Copyright (c) 2016 Robert Muth (robert@muth.org)
+
+  Based on Microcosm by <a
+				href='http://www.reallyslick.com/screensavers/'>Terence M. Welsh</a>
+
+  <a href="http://transvoxel.org/">Cube Marching Look-up Tables</a> by <a
+				href="http://www.terathon.com/lengyel/">Eric Lengyel</a>
+
+  More Screen Art at: <a href='http://art.muth.org'>http://art.muth.org</a>
+  <pre id='state'>
+  </pre>
+  </pre>
+		<table>
+			<tr>
+				<th>Key</th>
+				<th>Function</th>
+			</tr>
+			<tr>
+				<th>A</th>
+				<td>Toggle About</td>
+			</tr>
+			<tr>
+				<th>C</th>
+				<td>Toggle Config</td>
+			</tr>
+			<tr>
+				<th>P</th>
+				<td>Toggle Performance</td>
+			</tr>
+			<tr>
+				<th>R</th>
+				<td>Reset/Restart</td>
+			</tr>
+			<tr>
+				<th>N</th>
+				<td>Next Form</td>
+			</tr>
+		</table>
+		<br />
+		<button type="button" data-cmd="C+">Config</button>
+		&nbsp;
+		<button type="button" data-cmd="A-">Close</button>
+	</div>
+
+	<div class="config" hidden>
+		<h2>Config</h2>
+		<form>
+			<select id="preset">
+			</select>
+			<button type="button" data-cmd="X">Activate Preset</button>
+		</form>
+		<h3>Customize</h3>
+
+		<form>
+			<table>
+
+				<tr>
+					<td><input type="number" id="colorSpeed" min=1 max=100
+						value=20></td>
+					<td>Color speed</td>
+				</tr>
+				<tr>
+					<td><input type="number" id="formSpeed" min=1 max=100 value=20></td>
+					<td>Shape speed</td>
+				</tr>
+				<tr>
+					<td><select id="mode">
+							<option value=0>Single Shape</option>
+							<option value=1>Kaleidoscope 1</option>
+							<option value=2>Kaleidoscope 2</option>
+							<option value=3>Kaleidoscope 3</option>
+							<option value=4>Kaleidoscope 4</option>
+					</select></td>
+					<td>Mode<sup>*</sup></td>
+				</tr>
+				<tr>
+					<td><select id="form">
+					</select></td>
+					<td>Shape</td>
+				</tr>
+				<tr>
+					<td><input type="number" id="formDuration" min=1 max=100
+						value=30></td>
+					<td>Shape duration (sec)<sup>*</sup></td>
+				</tr>
+
+				<tr>
+					<td><select id="detail">
+							<option value=5>5 (detailed)</option>
+							<option value=10>10</option>
+							<option value=12.5>12.5</option>
+							<option value=15>15</option>
+							<option value=20>20</option>
+							<option value=25>25</option>
+							<option value=30>30(coarse)</option>
+					</select></td>
+					<td>Detail<sup>*</sup></td>
+				</tr>
+				<tr>
+					<td><select id="cameraMode">
+							<option value=manual>Manual</option>
+							<option value=random>Random</option>
+							<option value=rotate>Rotate</option>
+					</select></td>
+					<td>Camera mode</td>
+				</tr>
+				<tr>
+					<td><input type="number" id="fov" min=10 max=170 value=50
+						step=1></td>
+					<td>Field of view</td>
+				</tr>
+				<tr>
+					<td><input type="checkbox" id="hideAbout"></td>
+					<td>Hide about-screen<sup>*</sup></td>
+				</tr>
+				<tr>
+					<td><input type="number" id="randomSeed" value=0 step=1
+						short=1></td>
+					<td>Random seed<sup>*</sup></td>
+				</tr>
+			</table>
+		</form>
+		<sup>* = Restart required to take effect</sup>
+
+		<p>
+			<button type="button" data-cmd="R">Restart</button>
+		</p>
+		<p>
+			<button type="button" data-cmd="C-">Close</button>
+			&nbsp;
+			<button type="button" data-cmd="A">About</button>
+			&nbsp;
+			<button type="button" data-cmd="P">Frame Rate</button>
+
+		</p>
+	</div>
+
+	<div class="performance" hidden>
+		<pre id="fps"></pre>
+	</div>
+
+
+	<div class="logo">Microcosm</div>
+
+	<div class="error" id="error" hidden></div>
+
+	<div id=event>
+		<canvas id="area"></canvas>
+	</div>
+	<script type="application/dart" src="microcosm.dart"></script>
+	<script src="packages/browser/dart.js"></script>
+</body>
+</html>

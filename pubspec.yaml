@@ -1,0 +1,17 @@
+name: microcosm
+dependencies:
+  browser: any
+  chronosgl: 3.2.3
+  collection: any
+  range: any
+  sprintf: any
+  vector_math: any
+dev_dependencies:
+  hop: any
+  unittest: any
+transformers:
+- $dart2js:
+    checked: false
+    minify: true
+    commandLineOptions: ['--trust-type-annotations', '--trust-primitives',
+'--show-package-warnings', '--dump-info']
