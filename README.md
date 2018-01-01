@@ -7,8 +7,8 @@
 * GPL 3 Licensed
 * Implemented in [Dart](https://www.dartlang.org)
 * With the [ChronosGL Engine](https://github.com/ChronosTeam/ChronosGL)
-* Using (Cube Marching Look-up Tables)[http://transvoxel.org/) by (Eric Lengyel)[http://www.terathon.com/lengyel/]
-* Code at [https://github.com/robertmuth/Microcosm]
+* Using [Cube Marching Look-up Tables](http://transvoxel.org/) by [Eric Lengyel](http://www.terathon.com/lengyel/)
+* Code at https://github.com/robertmuth/Microcosm
 
 ![Screenshopt](screenshot.png)
 
@@ -16,7 +16,7 @@
 ## About
 
 This is a re-implementation of [Terence M. Welsh's](http://www.reallyslick.com)
-awesome (Microcosm Screensaver)[http://www.reallyslick.com/screensavers/].
+awesome [Microcosm Screensaver](http://www.reallyslick.com/screensavers/).
 
 At the heart of the screensaver are animated iso surfaces represented by
 signed distance functions (SDFs).
@@ -24,9 +24,9 @@ signed distance functions (SDFs).
 We use cube marching to extract a triangle mesh which is then rendered using traditional
 shaders. Great care is taken to evaluate the SDF for as few points as possible.
 
-The screensaver works best when the <i>detail</i> level is set to 12.5 or
-lower which requires a higher-end system for acceptable frame rates.
-It also works much better in Firefox than Chrome.
+The screensaver works best when the *detail level is set to 12.5 or lower*
+which requires a higher-end system for acceptable frame rates.
+It also works much *better in Firefox* than Chrome.
 
 ## Future Work
 
